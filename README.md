@@ -22,4 +22,4 @@ To explore the projects in this repository, follow these steps:
       Open the HTML file in a web browser to see the project in action.
 
 ## Contact
-  For questions or feedback, feel free to reach out to me on Instagram: @AbdullahTheDev.
+  For questions or feedback, feel free to reach out to me on Instagram: [@AbdullahTheDev](https://www.instagram.com/AbdullahTheDev).
